@@ -2,7 +2,7 @@
   "profiles": {
     "Crawler": {
       "commandName": "Project",
-      "commandLineArgs": "https://pja.edu.pl/"
+      "commandLineArgs": "http://www.pja.edu.pl"
     }
   }
 }
